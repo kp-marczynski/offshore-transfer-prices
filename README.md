@@ -11,4 +11,4 @@ Script for calculating order of production steps in capital group offshore compa
 * To run execute `gradlew start`
 
 ## Requirements
-* Java 14
+* JDK 14
